@@ -10,9 +10,10 @@ Note: I used this option in OW before there were settings to change the outline 
 
 The script reads the settings.ini file to set the values of Digital Vibrance and Hue Shift when you press different hot keys.  The defaults are:
 
-WindowsKey+End = Digital Vibrance 50%, Hue Shift 0°
-WindowsKey+Home = Digital Vibrance 85%, Hue Shift 147°
-WindowsKey+PageDown = Digital Vibrance 100%, Hue Shift 0°
+- WindowsKey+End = Digital Vibrance 50%, Hue Shift 0°
+- WindowsKey+Home = Digital Vibrance 85%, Hue Shift 147°
+- WindowsKey+PageDown = Digital Vibrance 100%, Hue Shift 0°
+
 Simply edit the settings.ini file with a text editor, then run NVidiaHotkeys.exe and press one of the hotkeys.
 
 -KovaaK
