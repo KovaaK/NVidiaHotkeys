@@ -1,3 +1,5 @@
+### [ Download Latest Version.](https://github.com/KovaaK/NVidiaHotkeys/releases/latest)
+
 This is an autohotkey script to change nvidia's Digital Vibrance and Hue settings by pressing hotkeys.  It makes use of [functions written by AutoHotkey user jNizM](https://www.autohotkey.com/boards/viewtopic.php?t=5508).
 
 NVidia's Control Panel allows you to apply some modifications to the colors that are output to your monitors.  If you right click on your desktop and go to NVidia Control Panel, you can find the options under Display->Adjust desktop color settings.
