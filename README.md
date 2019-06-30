@@ -8,10 +8,6 @@ Digital Vibrance can be used to artificially raise the contrast of the screen, w
 
 Note: I used this option in OW before there were settings to change the outline color around enemies.  Unfortunately, the new settings are still imperfect, because they don't change the color of particle effects and hitscan tracers.
 
-Per the compiled version, "Windows Key+Home" turns it on, and "Windows Key+End" turns it off.
-Edit settings.ini to change which monitor to affect as well as the Hue/DV while on and off.
-Default Hue is 0, and default Digital Virbance is 50.
-
 The script reads the settings.ini file to set the values of Digital Vibrance and Hue Shift when you press different hot keys.  The defaults are:
 
 WindowsKey+End = Digital Vibrance 50%, Hue Shift 0°
